@@ -56,6 +56,7 @@ Assigned to: ThemeForest
 	});
 	
 	//Skills Charts
+	/*
 	$('.prt_skills_wrapper').appear(function() {
 		var circle1 = Circles.create({
 			id: 'circles-1',
@@ -98,6 +99,7 @@ Assigned to: ThemeForest
 			duration: 900
 		});
 	});
+	*/
 	
 	// Service Page Client Slider Js
 	$('.prt_client_slider .owl-carousel').owlCarousel({

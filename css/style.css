@@ -38,7 +38,7 @@ a {
 	cursor:pointer;
 }
 a:hover, a:focus {
-	color: #b7b7b7;
+    color: #b7b7b7;
 	text-decoration: none;
 }
 a:focus {
@@ -259,7 +259,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url(http://placehold.it/1920X1080);
+	background-image:url(../images/content/black_screen.png);
 	background-position: center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -1137,28 +1137,28 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(../images/skills/nodejslogo.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(../images/skills/oracle-java-logo1.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(../images/skills/HTML-CSS-Logo.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(../images/skills/wordpress-logo.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
